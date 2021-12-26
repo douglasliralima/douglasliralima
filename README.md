@@ -3,7 +3,8 @@
 Here a little about me
 
 <img align="center" width="480px" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=douglasliralima&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="center" width="480px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasliralima&layout=compact&hide=HTML,Python,CSS,Objective-C&langs_count=8&theme=tokyonight" />
+
+<img align="center" width="480px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasliralima&layout=compact&hide=jupyter-notebook&langs_count=8&theme=tokyonight" />
 
 ![](https://komarev.com/ghpvc/?username=douglasliralima&color=7045ff)
 
