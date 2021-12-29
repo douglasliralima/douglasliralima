@@ -1,6 +1,6 @@
 ## Hello Stranger 🕵️
 
-<img align="center" width="480px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasliralima&layout=compact&hide=jupyter+notebook&langs_count=8&theme=tokyonight" />
+<img align="center" width="480px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasliralima&layout=compact&hide=jupyter+notebook,racket&langs_count=8&theme=tokyonight" />
 
 ![](https://komarev.com/ghpvc/?username=douglasliralima&color=7045ff)
 
